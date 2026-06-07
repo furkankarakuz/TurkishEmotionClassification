@@ -1,0 +1,16 @@
+nltk
+tqdm
+
+numpy
+pandas
+seaborn
+matplotlib
+
+scikit-learn
+
+torch
+transformers
+accelerate
+datasets
+
+gradio
